@@ -6,3 +6,11 @@
 .MedFont {
    font-size: 24px
 }
+#big-blue {
+   font-size: 36px;
+   color: #0000ff;
+}
+#bold-green {
+   background-color: #29f529;
+   font-weight: bold;
+}
